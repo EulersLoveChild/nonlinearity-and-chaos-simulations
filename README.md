@@ -18,6 +18,9 @@ I separate the simulations into three categories, based off of the values of the
 
 ### Period One (γ < 0.8)
 
+![](https://media.giphy.com/media/rqbffgLckXtmNROIeO/giphy.gif)
+![](https://i.imgur.com/q78ccAQ.png)
+
 In this simulation, the pendulum starts off with a very chaotic path, but the transiets die down and settles into a sinusodial path.  
 
 ### Period Two (0.8 < γ < 1)
