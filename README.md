@@ -25,6 +25,9 @@ In this simulation, the pendulum starts off with a very chaotic path, but the tr
 
 ### Period Two (0.8 < γ < 1)
 
+![](https://media.giphy.com/media/wK1hNdSmbjnIiQ8dEv/giphy.gif)
+![](https://i.imgur.com/09hGMl6.png)
+
 In this simulation, one can clearly tell that the pendulum still has a very sinusodial path, due to its weight being larger than the driving force. 
 
 ### Period Three (γ > 1)
