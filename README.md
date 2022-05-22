@@ -16,21 +16,21 @@ Below, I document some physics simulations that fall under classical mechanics, 
 
 I separate the simulations into three categories, based off of the values of the drive strength (γ).
 
-### Period One (γ < 0.8)
+### Case One
 
 ![](https://media.giphy.com/media/rqbffgLckXtmNROIeO/giphy.gif)
 ![](https://i.imgur.com/q78ccAQ.png)
 
 In this simulation, the pendulum starts off with a very chaotic path, but the transiets die down and settles into a sinusodial path.  
 
-### Period Two (0.8 < γ < 1)
+### Case Two
 
 ![](https://media.giphy.com/media/wK1hNdSmbjnIiQ8dEv/giphy.gif)
 ![](https://i.imgur.com/09hGMl6.png)
 
 In this simulation, one can clearly tell that the pendulum still has a very sinusodial path, due to its weight being larger than the driving force. 
 
-### Period Three (γ > 1)
+### Case Three
 
 ![](https://media.giphy.com/media/b1BmyzNBOvzX0XHIK3/giphy.gif)
 ![](https://i.imgur.com/MCXmkwF.png)
